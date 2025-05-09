@@ -1,0 +1,7 @@
+RENT-00000461-2025 Building
+RENT-00000462-2025 Land
+RENT-00000466-2025 Bunk
+RENT-00000468-2025  Stall
+RENT-00000469-2025 institution
+
+https://dev.ksmart.live/ui/rent-and-hall-booking/employee/rent/bb16d042-5d10-4764-b836-3f2ff410078b
